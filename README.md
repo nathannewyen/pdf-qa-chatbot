@@ -93,6 +93,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Your Name - your.email@example.com
+Nhan Nguyen - nathan@nathannewyen.com
 
 Project Link: [https://github.com/nathannewyen/pdf-qa-chatbot](https://github.com/nathannewyen/pdf-qa-chatbot) 
